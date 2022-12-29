@@ -1,5 +1,8 @@
 # HIG-translate
-Human Interface Guide 번역본입니다.
+Human Interface Guide 번역본입니다.   
+
+## 🌐 Reference Site
+[[Apple Developer] Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/platforms/overview)
 
 ## Foundation
 - Accessibility
